@@ -1,0 +1,2 @@
+Ajoutez ici les PDF des projets d'architecture.
+Renseignez ensuite la propriété pdf de chaque projet dans src/data/site.ts.
